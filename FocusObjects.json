@@ -9,7 +9,7 @@
   "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWZvcm1hdC1saXN0LWJ1bGxldGVkLXNxdWFyZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0zLDRIN1Y4SDNWNE05LDVWN0gyMVY1SDlNMywxMEg3VjE0SDNWMTBNOSwxMVYxM0gyMVYxMUg5TTMsMTZIN1YyMEgzVjE2TTksMTdWMTlIMjFWMTdIOSIgLz48L3N2Zz4=",
   "name": "FocusObjects",
   "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/a449911169181f2bd2c1b4e707a0c02b3c331138694fa612fe4d87094e3de7ab_format-list-bulleted-square.svg",
-  "shortDescription": "Focus on objects using the keyboard or remote control",
+  "shortDescription": "Focus on objects using the keyboard or remote control.",
   "version": "0.1.0",
   "description": [
     "Based on groups and identifiers, it allows you to know which object is being focused on.",
@@ -55,7 +55,7 @@
   "sceneVariables": [],
   "eventsFunctions": [
     {
-      "description": "Focus objects towards the direction (_PARAM1_)",
+      "description": "Focus objects towards the direction (_PARAM1_).",
       "fullName": "Change the focused object",
       "functionType": "Action",
       "name": "FocusObject",
@@ -144,7 +144,7 @@
       "objectGroups": []
     },
     {
-      "description": "Assign the focus group.\n\n(By default, the focus group is empty, so you absolutely need to create one.)",
+      "description": "Assign the focus group.\n\n(By default, the focus group is empty, so you absolutely need to create one).",
       "fullName": "Focus group",
       "functionType": "Action",
       "name": "CurrentFocusGroup",
@@ -190,7 +190,7 @@
   },
   "eventsBasedBehaviors": [
     {
-      "description": "Focus an object with the keyboard or controller to perform various actions (usually focusing on interface buttons)",
+      "description": "Focus an object with the keyboard or controller to perform various actions (usually focusing on interface buttons).",
       "fullName": "Focus on object using keyboard/controller",
       "helpPath": "",
       "iconUrl": "",
